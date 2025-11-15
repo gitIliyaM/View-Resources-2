@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Переопределение цветов для темной темы -->
+    <color name="light_primary">@color/dark_primary</color>
+    <color name="light_onPrimary">@color/dark_onPrimary</color>
+    <color name="light_primaryContainer">@color/dark_primaryContainer</color>
+    <color name="light_onPrimaryContainer">@color/dark_onPrimaryContainer</color>
+    <color name="light_secondary">@color/dark_secondary</color>
+    <color name="light_onSecondary">@color/dark_onSecondary</color>
+    <color name="light_secondaryContainer">@color/dark_secondaryContainer</color>
+    <color name="light_onSecondaryContainer">@color/dark_onSecondaryContainer</color>
+    <color name="light_tertiary">@color/dark_tertiary</color>
+    <color name="light_onTertiary">@color/dark_onTertiary</color>
+    <color name="light_tertiaryContainer">@color/dark_tertiaryContainer</color>
+    <color name="light_onTertiaryContainer">@color/dark_onTertiaryContainer</color>
+    <color name="light_error">@color/dark_error</color>
+    <color name="light_onError">@color/dark_onError</color>
+    <color name="light_errorContainer">@color/dark_errorContainer</color>
+    <color name="light_onErrorContainer">@color/dark_onErrorContainer</color>
+    <color name="light_surface">@color/dark_surface</color>
+    <color name="light_onSurface">@color/dark_onSurface</color>
+    <color name="light_surfaceVariant">@color/dark_surfaceVariant</color>
+    <color name="light_onSurfaceVariant">@color/dark_onSurfaceVariant</color>
+    <color name="light_outline">@color/dark_outline</color>
+    <color name="light_inverseOnSurface">@color/dark_inverseOnSurface</color>
+    <color name="light_inverseSurface">@color/dark_inverseSurface</color>
+    <color name="light_primaryInverse">@color/dark_primaryInverse</color>
+</resources>

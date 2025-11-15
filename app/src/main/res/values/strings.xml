@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">View &amp; Resources</string>
+    <string name="contacts_title">Ivan Petrov</string>
+    <string name="name_hint">Name</string>
+    <string name="phone_hint">Phone</string>
+    <string name="address_hint">Address</string>
+    <string name="city_hint">City</string>
+    <string name="country_hint">Country</string>
+    <string name="date_hint">Date</string>
+    <string name="notes_hint">Notes</string>
+    <string name="save_button_text">Save</string>
+    <string name="theme_toggle_text">Theme</string>
+    <string name="phone_type_hint">Select</string>
+    <string name="back_button_description">Back</string>
+
+    <!-- Строки для CartActivity -->
+    <string name="cart_title">Cart</string>
+    <string name="total_label">Total:</string>
+    <string name="checkout_button_text">Checkout</string>
+
+    <!-- Шаблоны строк для RecyclerView в CartActivity -->
+    <string name="item_price_template">$%.2f</string>
+    <string name="item_quantity_template">x%d</string>
+
+    <!-- Строки для MainActivity и Login Dialog -->
+    <string name="open_contacts_button">Open Contacts</string>
+    <string name="open_cart_button">Open Cart</string>
+    <string name="show_signin_button">Show Sign In Dialog</string>
+    <string name="email_hint">Email</string>
+    <string name="login_dialog_title">Sign In</string>
+    <string name="sign_in_button_text">Sign In</string>
+    <string name="cancel_button_text">Cancel</string>
+
 </resources>

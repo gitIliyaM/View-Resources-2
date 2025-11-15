@@ -21,7 +21,10 @@
 Задание содержит 3 страницы:
 1. `Contacts` - страница контакта записной книжки
 2. `Cart` - страница корзины
-3. `Login` - [MaterialAlertDialog](https://m2.material.io/components/dialogs/android) формы логина
+3. `Login` - [MaterialAlertDialog](https://m2.material.io/components/dialogs/android) формы логина. создай  
+   Simple dialog
+   Simple dialogs display a list of items that take immediate effect when selected. При логине вводим имейл и попадаем в личную кабинет
+, который выглядит как картинка с названием файла Contacts Day.png. 
 
 Для первого и второго задания в проекте сделаны две пустых `Activity`:
 1. `ContactsActivity`
